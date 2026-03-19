@@ -121,7 +121,14 @@ my cow is sick
 
 ---
 ## Screenshots
+<img width="1919" height="968" alt="Image" src="https://github.com/user-attachments/assets/bca71be9-d996-4bbb-95e9-7881a6bf3c54" />
+<br><br>
+<img width="855" height="1016" alt="Image" src="https://github.com/user-attachments/assets/d7c31049-7e68-4c12-80c8-e9a8c1b36f71" />
+<br><br>
+<img width="1919" height="1015" alt="Image" src="https://github.com/user-attachments/assets/b6e89c39-8365-4165-9db4-0203b900665a" />
+<br><br>
 
+---
 ## Future Enhancements
 
 * Multi-language support (Tamil)
